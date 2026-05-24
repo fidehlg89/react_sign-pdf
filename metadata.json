@@ -1,0 +1,6 @@
+{
+  "name": "FirmaPDF",
+  "description": "Una herramienta segura y sencilla para firmar documentos PDF directamente en tu navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
